@@ -1,0 +1,17 @@
+# Quarto and rendered output
+_book/
+.quarto/
+*_files/
+*.html
+*.pdf
+
+# Python environments and caches
+.venv/
+.ids/
+__pycache__/
+.ipynb_checkpoints/
+
+# Local and sensitive files
+.env
+.DS_Store
+credentials.*

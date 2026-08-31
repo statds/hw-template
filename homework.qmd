@@ -1,0 +1,29 @@
+---
+title: "Assignment NUMBER"
+author: "Your Name"
+format: html
+---
+
+
+## Exercise 1.1
+
+Replace this sentence with the first assigned problem and
+answer its subquestions.
+
+a. Replace this sentence with the first subquestion and your answer.
+
+a. Replace this sentence with the second subquestion and your answer.
+
+
+## Exercise 1.3
+
+Replace this sentence with the third assigned problem and
+answer its subquestions.
+
+a. Replace this sentence with the first subquestion and your answer.
+
+a. Replace this sentence with the second subquestion and your answer.
+
+## References
+
+<!-- Add citations and links for sources used in the homework. -->
