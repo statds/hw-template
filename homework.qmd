@@ -4,15 +4,24 @@ author: "Your Name"
 format: html
 ---
 
+## AI Use Disclosure {.unnumbered}
+
+**AI tool(s) used:** [Tool name(s), or None]
+
+**Use:** [Briefly describe how AI was used and, when relevant, identify the
+problem(s) or part(s) of the assignment where it was used.]
+
+If no generative AI tools were used, write:
+*I did not use generative AI tools in completing this assignment.*
 
 ## Exercise 1.1
 
 Replace this sentence with the first assigned problem and
 answer its subquestions.
 
-a. Replace this sentence with the first subquestion and your answer.
+a. Anwser to first subquestion.
 
-a. Replace this sentence with the second subquestion and your answer.
+a. RAnser to second subquestion.
 
 
 ## Exercise 1.3
@@ -20,10 +29,10 @@ a. Replace this sentence with the second subquestion and your answer.
 Replace this sentence with the third assigned problem and
 answer its subquestions.
 
-a. Replace this sentence with the first subquestion and your answer.
+a. Anwser to first subquestion.
 
-a. Replace this sentence with the second subquestion and your answer.
+a. RAnser to second subquestion.
 
 ## References
 
-<!-- Add citations and links for sources used in the homework. -->
+If any reference is cited, list them here.
