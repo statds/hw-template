@@ -1,15 +1,30 @@
 # Quarto Homework Template
 
-This repository is a reusable starter for Introduction to Data Science
-homework. Copy or fork it, rename the project, and put all answers in
-`homework.qmd`.
+This repository provides the starter files for Introduction to Data Science
+homework. Put all of your answers in `homework.qmd`.
 
 ## Start
 
-1. Copy or fork this template repository.
-2. Rename the repository and update the title and author in `homework.qmd`.
-3. Replace the problem placeholders with the assigned problems.
-4. Write complete explanations around any code, tables, or figures.
+### If your assignment uses Classroom50.org
+
+Classroom50.org automatically adds these files to your homework repository.
+Clone that repository to your computer; do not copy, fork, or rename it.
+
+### If you are using this template without Classroom50.org
+
+Copy or fork this template repository, rename the resulting project, and clone
+it to your computer.
+
+### Complete your homework
+
+1. In your local clone, update the title and author in `homework.qmd` as
+   directed by your instructor.
+2. Complete the assigned problems in `homework.qmd`, writing explanations
+   around any code, tables, or figures.
+3. Save your progress in multiple meaningful Git commits as you work.
+4. Render the homework and review the result. Continue editing, committing,
+   and reviewing until you are satisfied.
+5. Push all of your commits to your homework repository.
 
 Keep source files, data descriptions, and environment specifications under
 version control. Do not commit virtual environments, generated output, caches,
