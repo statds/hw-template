@@ -20,18 +20,28 @@ it to your computer.
 1. In your local clone, update the title and author in `homework.qmd` as
    directed by your instructor.
 2. Complete the assigned problems in `homework.qmd`, writing explanations
-   around any code, tables, or figures.
+   around any code, tables, or figures. If an assignment uses supplied data,
+   download it from the source identified by your instructor into the local
+   relative path expected by your code. For the Chapter 5 311 exercise, use
+   `data/311_nypd_lbdwk_2026.csv.zip`. Do not add that archive or generated
+   data products (such as `data/illegal_parking.feather`) to Git. The grader
+   will place the same source data at that path before rendering your
+   submission; your code should assume it is present and create derived files
+   as part of rendering.
 3. Save your progress in multiple meaningful Git commits as you work.
 4. Render the homework and review the result. Continue editing, committing,
    and reviewing until you are satisfied.
 5. Push all of your commits to your homework repository.
 
 Keep source files, data descriptions, and environment specifications under
-version control. Do not commit virtual environments, generated output, caches,
-credentials, or private data.
+version control. Do not commit local data files, virtual environments,
+generated output, caches, credentials, or private data. The `.gitignore` file
+excludes the Chapter 5 source archive and derived Feather file from Git
+tracking.
 
 The course's semester-specific notes provide the assignment instructions,
-rendering and PDF requirements, and submission procedure.
+environment requirements, and submission procedure. Unless an assignment
+explicitly requests a PDF, submit the `.qmd` source; the grader renders it.
 
 ## Render
 
@@ -45,7 +55,3 @@ If successful, the rendered html output file `homework.html` will show,
 which can then be reviewed. If edits or revision is needed, edit the
 `homework.qmd` file with your favorite editor (e.g., Codium or Emacs),
 save, and rerender. Iterate until the html output is satisfactory.
-
-## Print to pdf
-
-The html output could be printed to a pdf file for ease of grading.

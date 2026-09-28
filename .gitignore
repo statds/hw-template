@@ -15,3 +15,5 @@ __pycache__/
 .env
 .DS_Store
 credentials.*
+/data/311_nypd_lbdwk_2026.csv.zip
+/data/illegal_parking.feather
